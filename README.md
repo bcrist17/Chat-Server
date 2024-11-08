@@ -1,6 +1,6 @@
 <b>Currently, the code for this project is not ready to be publicly posted. After a database is set up to store users' login information, then the project will be posted here.</b>
 <be>
-<p>To check out the project go to: https://bktalk.azurewebsites.net/</p><br>
+<p>To check out the project go to: [https://bktalk.azurewebsites.net](https://bktalk-dpbrangbbzendtf5.canadacentral-01.azurewebsites.net/)/</p><br>
   -Select the messaging tab<br>
   -Enter in the login info:<br>
   <p>  Username: TestUser1</p>
